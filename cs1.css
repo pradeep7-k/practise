@@ -1,0 +1,15 @@
+p{
+text-align:center;
+color:red;
+font-style:italic;
+/*background-color:black;*/
+font-size:30px;
+padding:100px;
+margin:300px;
+/*background-color:skyblue;
+opacity:0.9;
+background-image:url("E:/23701A3166/K2.jpg" );*/
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:left top;
+}
